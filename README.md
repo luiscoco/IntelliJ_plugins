@@ -47,6 +47,8 @@ IntelliJ's built-in Git integration is powerful, but you can enhance it further 
 ## SonarLint
 SonarLint helps you write cleaner and more maintainable code by providing real-time feedback on code quality and highlighting potential bugs, vulnerabilities, and code smells.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/d68fa007-1487-4b3d-9602-cbb0ad88016d)
+
 ## Checkstyle-IDEA
 This plugin integrates Checkstyle, a popular code style and static analysis tool, into IntelliJ. It enforces a consistent coding style and helps you identify potential code quality issues.
 
