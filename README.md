@@ -22,6 +22,8 @@ The AppMap plugin helps you visualize and understand your codebase by generating
 ## CodeGlance
 CodeGlance adds a small code preview window to the editor's scrollbar, giving you a quick overview of your code. It helps you navigate and understand code structures more efficiently.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/c8008539-d8d0-4f5e-b2f9-d4e9960a2d87)
+
 ## Rainbow Brackets
 This plugin colorizes matching brackets with different colors, making it easier to identify and navigate nested code blocks.
 
