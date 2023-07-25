@@ -2,6 +2,9 @@
 
 Supercharge Your Java Development: 10 Must-Have IntelliJ Plugins for Enhanced Productivity
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/f4fe5486-0c68-4ee5-8522-2459a5ab322e)
+
+
 ## GsonFormat 
 The GsonFormat plugin simplifies the process of working with Gson, a popular Java library for converting Java objects to JSON and vice versa.
 
