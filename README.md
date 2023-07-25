@@ -52,3 +52,6 @@ SonarLint helps you write cleaner and more maintainable code by providing real-t
 ## Checkstyle-IDEA
 This plugin integrates Checkstyle, a popular code style and static analysis tool, into IntelliJ. It enforces a consistent coding style and helps you identify potential code quality issues.
 
+![image](https://github.com/luiscoco/JavaSE_IntelliJ_plugins/assets/32194879/555ef912-98af-4b4e-9dba-f8f3442c0b9b)
+
+
