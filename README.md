@@ -27,6 +27,8 @@ CodeGlance adds a small code preview window to the editor's scrollbar, giving yo
 ## Rainbow Brackets
 This plugin colorizes matching brackets with different colors, making it easier to identify and navigate nested code blocks.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/810bf748-3f6c-4ec6-a06d-12833981650c)
+
 ## PlantUML integration
 PlantUML is a textual diagramming tool that allows you to create UML diagrams using a simple and intuitive syntax. The PlantUML integration plugin enables you to generate and preview UML diagrams directly within IntelliJ.
 
