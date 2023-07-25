@@ -42,6 +42,8 @@ Lombok is a handy library that reduces boilerplate code by automatically generat
 ## Git Integration
 IntelliJ's built-in Git integration is powerful, but you can enhance it further with the Git Integration plugin. It offers additional features like advanced conflict resolution, branch management, and interactive rebase.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/654a5c6f-2887-4a64-a863-64ae4e120d33)
+
 ## SonarLint
 SonarLint helps you write cleaner and more maintainable code by providing real-time feedback on code quality and highlighting potential bugs, vulnerabilities, and code smells.
 
