@@ -17,6 +17,8 @@ The Maven Helper plugin provides valuable assistance when working with Maven pro
 ## AppMap
 The AppMap plugin helps you visualize and understand your codebase by generating interactive and navigable diagrams called "AppMaps."
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/053dc6e0-c375-4202-84cf-699d5d737ec3)
+
 ## CodeGlance
 CodeGlance adds a small code preview window to the editor's scrollbar, giving you a quick overview of your code. It helps you navigate and understand code structures more efficiently.
 
