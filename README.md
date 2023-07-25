@@ -32,6 +32,8 @@ This plugin colorizes matching brackets with different colors, making it easier 
 ## PlantUML integration
 PlantUML is a textual diagramming tool that allows you to create UML diagrams using a simple and intuitive syntax. The PlantUML integration plugin enables you to generate and preview UML diagrams directly within IntelliJ.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/5fd1b1d4-1ec9-4b83-aaee-0685d8d93188)
+
 ## Lombok
 Lombok is a handy library that reduces boilerplate code by automatically generating getters, setters, constructors, and other commonly used methods. The Lombok plugin ensures seamless integration and provides IDE support for working with Lombok annotations.
 
