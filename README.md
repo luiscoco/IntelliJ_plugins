@@ -37,6 +37,8 @@ PlantUML is a textual diagramming tool that allows you to create UML diagrams us
 ## Lombok
 Lombok is a handy library that reduces boilerplate code by automatically generating getters, setters, constructors, and other commonly used methods. The Lombok plugin ensures seamless integration and provides IDE support for working with Lombok annotations.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/ff4e6b65-433a-4d6f-b264-2c79204a916a)
+
 ## Git Integration
 IntelliJ's built-in Git integration is powerful, but you can enhance it further with the Git Integration plugin. It offers additional features like advanced conflict resolution, branch management, and interactive rebase.
 
