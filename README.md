@@ -8,6 +8,8 @@ Supercharge Your Java Development: 10 Must-Have IntelliJ Plugins for Enhanced Pr
 ## GsonFormat 
 The GsonFormat plugin simplifies the process of working with Gson, a popular Java library for converting Java objects to JSON and vice versa.
 
+![image](https://github.com/luiscoco/IntelliJ_plugins/assets/32194879/e0ce18fb-c49a-490b-9e44-1f17ce6a942b)
+
 ## Maven Helper 
 The Maven Helper plugin provides valuable assistance when working with Maven projects. It offers various features to streamline your Maven workflow and make project management tasks more efficient.
 
